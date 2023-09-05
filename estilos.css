@@ -18,6 +18,7 @@ body {
 }
 
 header {
+    width: 100%;
     background-color: rgb(199, 27, 27);
     color: #fff;
     padding: 10px;
