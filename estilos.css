@@ -53,8 +53,13 @@ nav a {
 section.noticia {
     margin: 20px;
     padding: 20px;
-    border: 1px solid #ddd;
+    border: 1px;
     flex: 1 0 auto;
+}
+section.noticia > p {
+    text-align: center;
+    font-size: 25px;
+    padding: 10px 200px;
 }
 
 footer {
