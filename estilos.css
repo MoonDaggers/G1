@@ -56,10 +56,22 @@ section.noticia {
     border: 1px;
     flex: 1 0 auto;
 }
+section.noticia > h2{
+    text-align: center;
+    font-size: 50px;
+    padding: 10px 100px;
+}
 section.noticia > p {
     text-align: center;
     font-size: 25px;
     padding: 10px 200px;
+}
+
+.lula{
+    max-width: 500px;
+    margin: auto;
+    display: block;
+    text-align: center;
 }
 
 footer {
