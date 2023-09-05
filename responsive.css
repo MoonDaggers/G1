@@ -2,7 +2,7 @@
 
 /* celular de 600 ate 768px */
 
-@media screen and (max-width: 600px){
+@media screen and (min-width: 768px){
     
     section.noticia > h2{
         font-size: 25px;
