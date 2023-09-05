@@ -6,6 +6,7 @@
     
     section.noticia > h2{
         font-size: 25px;
+        padding: 10px;
     }
 
     section.noticia > p{
@@ -13,10 +14,4 @@
         padding: 10px;
     }
 
-    .lula{
-        max-width:300px;
-        max-height:300px;
-        width: auto;
-        height: auto;
-    }
 }
